@@ -3,7 +3,6 @@ class Car < Vehicle
  
 end
 
-class Car < Vehicle
   def go
     "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
   end
